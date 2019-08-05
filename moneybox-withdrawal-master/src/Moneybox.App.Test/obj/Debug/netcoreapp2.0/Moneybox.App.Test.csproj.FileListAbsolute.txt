@@ -1,0 +1,17 @@
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.Test.deps.json
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.Test.runtimeconfig.json
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.Test.runtimeconfig.dev.json
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.Test.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.Test.pdb
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\bin\Debug\netcoreapp2.0\Moneybox.App.pdb
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.csprojAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.AssemblyInfo.cs
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.csproj.CopyComplete
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.dll
+C:\Users\ahmed\Documents\Visual Studio 2017\Projects\moneybox-withdrawal-master2\moneybox-withdrawal-master\src\Moneybox.App.Test\obj\Debug\netcoreapp2.0\Moneybox.App.Test.pdb
